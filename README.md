@@ -1,7 +1,7 @@
 # AIFA — AI-Driven Distillation Column Controller
 ### Minimax & Alpha-Beta Pruning for Robust Process Optimization
 
-> **Course Project — Artificial Intelligence Fundamentals**  
+> **Course Project — Artificial Intelligence Foundation and Application**  
 > **Team MAPS**
 
 ---
